@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ShoesManagement</string>
+    <string name="shoes_list">Shoes List</string>
+    <string name="add">Add</string>
+    <string name="shoes_management_system">Shoes Management System</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="brandtextview">Brand</string>
+    <string name="colortextview">Color</string>
+    <string name="modeltextview">Model</string>
+    <string name="pricetextview">Price</string>
+    <string name="sizeedittext">Size</string>
+    <string name="priceedittext">Price</string>
+    <string name="button_apply_and_add_shoe">Apply and Add Shoe</string>
+    <string name="button_back_to_menu">Back to Menu</string>
+    <string name="shoeidtextview">Shoe ID</string>
+    <string name="save_changes_and_update_shoe">Save Changes and Update Shoe</string>
+    <string name="deletebutton">Delete</string>
+    <string name="shoe_id_text">Shoe ID:</string>
+    <string name="brand_text">Brand:</string>
+    <string name="shoe_model_text">Shoe Model:</string>
+    <string name="shoe_size_text">Shoe Size:</string>
+    <string name="shoe_color_text">Shoe Color:</string>
+    <string name="shoe_price_text">Shoe Price:</string>
+    <string name="shoe_inventory_system_textview">Shoe Inventory System</string>
+    <string name="todo">TODO</string>
+</resources>
